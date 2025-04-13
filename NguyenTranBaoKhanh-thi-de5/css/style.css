@@ -1,0 +1,30 @@
+ *{
+     box-sizing: 0;
+     margin: 0;
+     padding: 0;
+ }
+ body {
+     background-color: #f3f4f6;
+ }
+ .choosenOne{
+    text-decoration: none;
+        width: 3000px;
+        padding: 13px;
+        background-color: white;
+        font-size: 24px;
+        color: #3B82F6;
+ }
+
+ table, tr, td {
+    border-collapse: collapse;
+ }
+ .table-primary{
+    height: 35px;
+ }
+ tr{
+   height: 50px;
+ }
+ .theadWord{
+    opacity: 30%;
+ }
+ 
